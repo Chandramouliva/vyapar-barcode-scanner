@@ -1,1 +1,0 @@
-# vyapar-barcode-scanner
