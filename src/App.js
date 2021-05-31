@@ -18,12 +18,11 @@ function App() {
     <div className="App">
       <div className="App-header">
         <Router>
-          <div style={{float: "left"}} ></div>
-          <div style={{float: "right"}}>
+          <div>
             <div>
-              <button style={{"color": "red"}} onClick = {handleScanner}>{startScan ? "Stop Scan" : "Start Scan" }</button>
+              <button style={{"color": "red", fontSize:"20px"}} onClick = {handleScanner}>{startScan ? "Stop Scan" : "Start Scan" }</button>
             </div>
-            <div style={{width: "20px !important", height: "20px !important"}}>
+            <div style={{diplsay: "flex", alignSelf:"center"}}>
               {startScan ? <Barscan/> : <div>Yes its working</div>}
             </div>
           </div>
