@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chandramouliva/vyapar-barcode-scanner/static/css/main.56410d1c.chunk.css",
+    "main.js": "/Chandramouliva/vyapar-barcode-scanner/static/js/main.aaf9c814.chunk.js",
+    "main.js.map": "/Chandramouliva/vyapar-barcode-scanner/static/js/main.aaf9c814.chunk.js.map",
+    "runtime-main.js": "/Chandramouliva/vyapar-barcode-scanner/static/js/runtime-main.8a8f9d52.js",
+    "runtime-main.js.map": "/Chandramouliva/vyapar-barcode-scanner/static/js/runtime-main.8a8f9d52.js.map",
+    "static/js/2.b6f4dd49.chunk.js": "/Chandramouliva/vyapar-barcode-scanner/static/js/2.b6f4dd49.chunk.js",
+    "static/js/2.b6f4dd49.chunk.js.map": "/Chandramouliva/vyapar-barcode-scanner/static/js/2.b6f4dd49.chunk.js.map",
+    "static/js/3.82f1c3cd.chunk.js": "/Chandramouliva/vyapar-barcode-scanner/static/js/3.82f1c3cd.chunk.js",
+    "static/js/3.82f1c3cd.chunk.js.map": "/Chandramouliva/vyapar-barcode-scanner/static/js/3.82f1c3cd.chunk.js.map",
+    "index.html": "/Chandramouliva/vyapar-barcode-scanner/index.html",
+    "static/css/main.56410d1c.chunk.css.map": "/Chandramouliva/vyapar-barcode-scanner/static/css/main.56410d1c.chunk.css.map",
+    "static/js/2.b6f4dd49.chunk.js.LICENSE.txt": "/Chandramouliva/vyapar-barcode-scanner/static/js/2.b6f4dd49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a8f9d52.js",
+    "static/js/2.b6f4dd49.chunk.js",
+    "static/css/main.56410d1c.chunk.css",
+    "static/js/main.aaf9c814.chunk.js"
+  ]
+}
